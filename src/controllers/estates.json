@@ -23,7 +23,11 @@
             "garage": true,
             "garden": false,
             "pool": false,
-            "image": "https://hips.hearstapps.com/hmg-prod/images/casa-diseno-contemporaneo-neolith4-1601380469.jpg?crop=1xw:1xh;center,top&resize=980:*",
+            "images": [
+                "https://hips.hearstapps.com/hmg-prod/images/casa-diseno-contemporaneo-neolith4-1601380469.jpg?crop=1xw:1xh;center,top&resize=980:*",
+                "https://media.istockphoto.com/id/478054193/es/foto/hermoso-paisaje-verde-casa.webp?s=2048x2048&w=is&k=20&c=Kj9_56VzqIdIOAWluAOTch7T6naYrT9jOQbWeI5gnmE=",
+                "https://media.istockphoto.com/id/95729042/es/foto/beutiful-casa-suburbana.webp?s=2048x2048&w=is&k=20&c=ArfrqF_XWqfWc8wEeAZci5NmNBlve9C6hk7HAK-ApjE="
+            ],
             "description": "House for sale in Chapinero, 3 bedrooms, 2 bathrooms, 150 square meters, garage, price 250,000,000",
             "sold": false
         },
@@ -50,7 +54,11 @@
             "garage": true,
             "garden": true,
             "pool": false,
-            "image": "https://decorandocasas.com.br/wp-content/uploads/2019/02/Fachadas-de-casas-bonitas-2019-02.jpg",
+            "images": [
+                "https://decorandocasas.com.br/wp-content/uploads/2019/02/Fachadas-de-casas-bonitas-2019-02.jpg",
+                "https://media.istockphoto.com/id/157649292/es/foto/casa-fachada-del-hotel.webp?s=2048x2048&w=is&k=20&c=hgruV747UbdoB9UeCm7_-Q6GNVBYWDFwWIoNwv8BjFw=",
+                "https://media.istockphoto.com/id/171300216/es/foto/moderna-casa-de-lujo.webp?s=2048x2048&w=is&k=20&c=LanJCXKRjg0fNFgjbrOULT3tSzOiHFtRAtN2CYlM8os="
+            ],
             "description": "House for sale in Americana, 4 bedrooms, 3 bathrooms, 200 square meters, garage, price 320,000,000",
             "sold": false
         },
@@ -77,7 +85,11 @@
             "garage": true,
             "garden": true,
             "pool": true,
-            "image": "https://hips.hearstapps.com/hmg-prod/images/casa-de-diseno-contemporaneo3-1637602627.jpg?crop=1xw:1xh;center,top&resize=980:*",
+            "images": [
+                "https://hips.hearstapps.com/hmg-prod/images/casa-de-diseno-contemporaneo3-1637602627.jpg?crop=1xw:1xh;center,top&resize=980:*",
+                "https://media.istockphoto.com/id/155598216/es/foto/moderna-casa-de-lujo.webp?s=2048x2048&w=is&k=20&c=_EJbgTkWLUN8eR0Ce4I-xfjFFkkDONS80LzMlKviAr4=",
+                "https://media.istockphoto.com/id/171300216/es/foto/moderna-casa-de-lujo.webp?s=2048x2048&w=is&k=20&c=LanJCXKRjg0fNFgjbrOULT3tSzOiHFtRAtN2CYlM8os="
+            ],
             "description": "House for sale in Cumbres, 3 bedrooms, 2.5 bathrooms, 180 square meters, garage, garden, pool, price 290,000,000",
             "sold": false
         },
@@ -104,7 +116,11 @@
             "garage": true,
             "garden": false,
             "pool": true,
-            "image": "https://hips.hearstapps.com/hmg-prod/images/casa-diseno-clasico-europeo-exterior-1611225943.jpg?crop=1xw:1xh;center,top&resize=980:*",
+            "images": [
+                "https://hips.hearstapps.com/hmg-prod/images/casa-diseno-clasico-europeo-exterior-1611225943.jpg?crop=1xw:1xh;center,top&resize=980:*",
+                "https://media.istockphoto.com/id/155598216/es/foto/moderna-casa-de-lujo.webp?s=2048x2048&w=is&k=20&c=_EJbgTkWLUN8eR0Ce4I-xfjFFkkDONS80LzMlKviAr4=",
+                "https://media.istockphoto.com/id/171300216/es/foto/moderna-casa-de-lujo.webp?s=2048x2048&w=is&k=20&c=LanJCXKRjg0fNFgjbrOULT3tSzOiHFtRAtN2CYlM8os="
+            ],
             "description": "House for sale in La Paz, 4 bedrooms, 3 bathrooms, 220 square meters, garage, pool, price 270,000,000",
             "sold": false
         },
@@ -131,7 +147,11 @@
             "garage": true,
             "garden": true,
             "pool": true,
-            "image": "https://hips.hearstapps.com/hmg-prod/images/casa-unifamiliar-de-diseno-puerta-hierro-verde-edificio-jardin-1673952822.jpg?crop=1xw:1xh;center,top&resize=980:*",
+            "images": [
+                "https://hips.hearstapps.com/hmg-prod/images/casa-unifamiliar-de-diseno-puerta-hierro-verde-edificio-jardin-1673952822.jpg?crop=1xw:1xh;center,top&resize=980:*",
+                "https://media.istockphoto.com/id/155598216/es/foto/moderna-casa-de-lujo.webp?s=2048x2048&w=is&k=20&c=_EJbgTkWLUN8eR0Ce4I-xfjFFkkDONS80LzMlKviAr4=",
+                "https://media.istockphoto.com/id/171300216/es/foto/moderna-casa-de-lujo.webp?s=2048x2048&w=is&k=20&c=LanJCXKRjg0fNFgjbrOULT3tSzOiHFtRAtN2CYlM8os="
+            ],
             "description": "Luxurious house for sale in Juriquilla, 5 bedrooms, 4 bathrooms, 300 square meters, garage, garden, pool, price 350,000,000",
             "sold": false
         },
@@ -158,7 +178,11 @@
             "garage": true,
             "garden": true,
             "pool": true,
-            "image": "https://hips.hearstapps.com/ellees.h-cdn.co/assets/17/20/jonathan_lennard_09_c2101_r1319527.jpg?crop=1xw:1xh;center,top&resize=980:*",
+            "images": [
+                "https://hips.hearstapps.com/ellees.h-cdn.co/assets/17/20/jonathan_lennard_09_c2101_r1319527.jpg?crop=1xw:1xh;center,top&resize=980:*",
+                "https://media.istockphoto.com/id/155598216/es/foto/moderna-casa-de-lujo.webp?s=2048x2048&w=is&k=20&c=_EJbgTkWLUN8eR0Ce4I-xfjFFkkDONS80LzMlKviAr4=",
+                "https://media.istockphoto.com/id/171300216/es/foto/moderna-casa-de-lujo.webp?s=2048x2048&w=is&k=20&c=LanJCXKRjg0fNFgjbrOULT3tSzOiHFtRAtN2CYlM8os="
+            ],
             "description": "Exquisite house for sale in Diamante, 6 bedrooms, 5 bathrooms, 400 square meters, garage, garden, pool, ocean view, price 500,000,000",
             "sold": false
         },
@@ -185,7 +209,11 @@
             "garage": false,
             "garden": true,
             "pool": true,
-            "image": "https://hips.hearstapps.com/hmg-prod/images/casa-de-campo-de-diseno-moderna-1666789409.jpg?crop=1xw:1xh;center,top&resize=980:*",
+            "images": [
+                "https://hips.hearstapps.com/hmg-prod/images/casa-de-campo-de-diseno-moderna-1666789409.jpg?crop=1xw:1xh;center,top&resize=980:*",
+                "https://media.istockphoto.com/id/155598216/es/foto/moderna-casa-de-lujo.webp?s=2048x2048&w=is&k=20&c=_EJbgTkWLUN8eR0Ce4I-xfjFFkkDONS80LzMlKviAr4=",
+                "https://media.istockphoto.com/id/171300216/es/foto/moderna-casa-de-lujo.webp?s=2048x2048&w=is&k=20&c=LanJCXKRjg0fNFgjbrOULT3tSzOiHFtRAtN2CYlM8os="
+            ],
             "description": "Spectacular house for sale in Zona Hotelera, 4 bedrooms, 4.5 bathrooms, 350 square meters, garden, pool, beachfront, price 550,000,000",
             "sold": false
         }
